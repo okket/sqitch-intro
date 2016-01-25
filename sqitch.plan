@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/okket/sqitch-intro/
 
+appschema 2016-01-25T19:34:45Z Okke Timm <okke@timm.sh> # Add schema for all flipr objects.
