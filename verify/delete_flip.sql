@@ -2,6 +2,6 @@
 
 BEGIN;
 
-DROP FUNCTION flipr.delete_flip(BIGINT);
+SELECT has_function_privilege('flipr.delete_flip(bigint)', 'execute');
 
 ROLLBACK;

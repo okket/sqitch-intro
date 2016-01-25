@@ -2,6 +2,6 @@
 
 BEGIN;
 
-SELECT has_function_privilege('flipr.delete_flip(bigint)', 'execute');
+DROP FUNCTION flipr.delete_flip(BIGINT);
 
 COMMIT;
