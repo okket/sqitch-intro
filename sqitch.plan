@@ -6,3 +6,4 @@ appschema 2016-01-25T19:34:45Z Okke Timm <okke@timm.sh> # Add schema for all fli
 users [appschema] 2016-01-25T20:40:14Z Okke Timm <okke@timm.sh> # Creates table to track our users.
 insert_user [users appschema] 2016-01-25T20:49:41Z Okke Timm <okke@timm.sh> # Creates a function to insert a user.
 change_pass [users appschema] 2016-01-25T20:50:04Z Okke Timm <okke@timm.sh> # Creates a function to change a user password.
+@v1.0.0-dev1 2016-01-25T20:55:27Z Okke Timm <okke@timm.sh> # Tag v1.0.0-dev1.
