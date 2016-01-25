@@ -9,3 +9,5 @@ change_pass [users appschema] 2016-01-25T20:50:04Z Okke Timm <okke@timm.sh> # Cr
 @v1.0.0-dev1 2016-01-25T20:55:27Z Okke Timm <okke@timm.sh> # Tag v1.0.0-dev1.
 
 lists [appschema users] 2016-01-25T21:59:59Z Okke Timm <okke@timm.sh> # Adds table for storing lists.
+insert_list [lists users appschema] 2016-01-25T22:09:34Z Okke Timm <okke@timm.sh> # Creates a function to insert a list.
+delete_list [lists users appschema] 2016-01-25T22:10:01Z Okke Timm <okke@timm.sh> # Creates a function to delete a list.
