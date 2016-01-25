@@ -3,3 +3,4 @@
 %uri=https://github.com/okket/sqitch-intro/
 
 appschema 2016-01-25T19:34:45Z Okke Timm <okke@timm.sh> # Add schema for all flipr objects.
+users [appschema] 2016-01-25T20:40:14Z Okke Timm <okke@timm.sh> # Creates table to track our users.
