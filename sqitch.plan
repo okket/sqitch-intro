@@ -15,3 +15,7 @@ flips [appschema users] 2016-01-25T20:59:14Z Okke Timm <okke@timm.sh> # Adds tab
 insert_flip [flips users appschema] 2016-01-25T21:06:22Z Okke Timm <okke@timm.sh> # Creates a function to insert a flip.
 delete_flip [flips users appschema] 2016-01-25T21:06:41Z Okke Timm <okke@timm.sh> # Creates a function to delete a flip.
 @v1.0.0-dev2 2016-01-25T23:28:06Z Okke Timm <okke@timm.sh> # Tag v1.0.0-dev2.
+
+pgcrypto 2016-01-25T23:32:07Z Okke Timm <okke@timm.sh> # Loads pgcrypto extension.
+insert_user [insert_user@v1.0.0-dev2 pgcrypto] 2016-01-25T23:34:39Z Okke Timm <okke@timm.sh> # Change insert_user to use pgcrypto.
+change_pass [change_pass@v1.0.0-dev2 pgcrypto] 2016-01-25T23:37:33Z Okke Timm <okke@timm.sh> # Change change_pass to use pgcrypto.
