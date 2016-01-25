@@ -12,3 +12,5 @@ lists [appschema users] 2016-01-25T21:59:59Z Okke Timm <okke@timm.sh> # Adds tab
 insert_list [lists users appschema] 2016-01-25T22:09:34Z Okke Timm <okke@timm.sh> # Creates a function to insert a list.
 delete_list [lists users appschema] 2016-01-25T22:10:01Z Okke Timm <okke@timm.sh> # Creates a function to delete a list.
 flips [appschema users] 2016-01-25T20:59:14Z Okke Timm <okke@timm.sh> # Adds table for storing flips.
+insert_flip [flips users appschema] 2016-01-25T21:06:22Z Okke Timm <okke@timm.sh> # Creates a function to insert a flip.
+delete_flip [flips users appschema] 2016-01-25T21:06:41Z Okke Timm <okke@timm.sh> # Creates a function to delete a flip.
